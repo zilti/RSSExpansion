@@ -18,7 +18,7 @@
 3. Install the mods according to the instructions provided by each one.
 4. Download the latest version of Real Solar System Expansion (RSSExpansion) for your respective KSP version.
 5. Extract the contents of the RSSExpansion .zip file and move the resulting "RSSExpansion" and "RSSExpansionTextures" folders inside the GameData folder. Note: make sure that you have removed any previous RSSExpansion installations beforehand.
-7. Launch KSP and try to explore all the new worlds!
+6. Launch KSP and try to explore all the new worlds!
 
 ## License:
 

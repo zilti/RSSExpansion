@@ -27,7 +27,7 @@ Installation:
         •   RSSExpansion
         •   RSSExpansionTextures
 
-    7. Launch KSP and try to explore all the new worlds!
+    6. Launch KSP and try to explore all the new worlds!
 
 License:
 
