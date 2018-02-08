@@ -1,17 +1,49 @@
-# Auto detect text files and perform LF normalization
+# ==================================================
+# Auto detect text files and perform LF
+# normalization.
+# ==================================================
+
 * text=auto
 
-# Custom for Visual Studio
-*.cs     diff=csharp
+# ==================================================
+# Generic files.
+# ==================================================
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+*.cfg   text    eol=lf
+*.CFG   text    eol=lf
+*.txt   text    eol=lf
+*.TXT   text    eol=lf
+
+# ==================================================
+# Texture files.
+# ==================================================
+
+*.dds   binary
+*.DDS   binary
+*.png   binary
+*.PNG   binary
+
+# ==================================================
+# Binary files.
+# ==================================================
+
+*.bin   binary
+*.BIN   binary
+
+# ==================================================
+# Spreadsheet files.
+# ==================================================
+
+*.odt   binary
+*.ODT   binary
+
+# ==================================================
+# Ignore list (folder and file names).
+# ==================================================
+
+Source         export-ignore
+
+.gitattributes export-ignore
+.gitignore     export-ignore
+*.md           export-ignore
+*.MD           export-ignore
