@@ -6,16 +6,18 @@
 * text=auto
 
 # ==================================================
-# Generic files.
+# Plain text
 # ==================================================
 
 *.cfg   text    eol=lf
 *.CFG   text    eol=lf
+*.md    text    eol=lf
+*.MD    text    eol=lf
 *.txt   text    eol=lf
 *.TXT   text    eol=lf
 
 # ==================================================
-# Texture files.
+# Images & textures
 # ==================================================
 
 *.dds   binary
@@ -24,21 +26,16 @@
 *.PNG   binary
 
 # ==================================================
-# Binary files.
+# Binaries
 # ==================================================
 
 *.bin   binary
 *.BIN   binary
-
-# ==================================================
-# Spreadsheet files.
-# ==================================================
-
 *.odt   binary
 *.ODT   binary
 
 # ==================================================
-# Ignore list (folder and file names).
+# Ignore list
 # ==================================================
 
 Source         export-ignore
