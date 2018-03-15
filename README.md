@@ -20,12 +20,6 @@
 5. Extract the contents of the RSSExpansion .zip file and move the resulting "RSSExpansion" and "RSSExpansionTextures" folders inside the GameData folder. Note: make sure that you have removed any previous RSSExpansion installations beforehand.
 6. Launch KSP and try to explore all the new worlds!
 
-## License:
-
-RSSExpansion is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC-BY-NC-SA 4.0)** license.
-
-You should have received a copy of the license along with this work. If not, visit the **[official Creative Commons web page][RSSEX:cc-license-link]**.
-
 ## Credits:
 
 * Original mod release (RSS Planets and Moons Expanded) by **pozine**.
@@ -39,6 +33,14 @@ You should have received a copy of the license along with this work. If not, vis
 * **KillAshley** for adding the asteroid 101955 Bennu.
 * **[MrHappyFace][RSSEX:contributor-mrhappyface-link]** for KopernicusExpansion, originally used by RSSExpanded for animated gas giant clouds and comet trails.
 * **regex** for repackaging the mod to be compatible with Module Manager.
+
+## License:
+
+RSSExpansion is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC-BY-NC-SA 4.0)** license.
+
+You should have received a copy of the license along with this work. If not, visit the **[official Creative Commons web page][RSSEX:cc-license-link]**.
+
+**Note that the above license does not cover mod packs. Redistributing this work via a mod pack is not allowed.**
 
 ***
 
