@@ -45,11 +45,11 @@ You should have received a copy of the license along with this work. If not, vis
 ***
 
 [RSSEX:cc-license-link]:              https://creativecommons.org/licenses/by-nc-sa/4.0
-[RSSEX:contributor-mrhappyface-link]: https://forum.kerbalspaceprogram.com/index.php?showtopic=119211
 [RSSEX:contributor-eggrobin-link]:    https://github.com/eggrobin
+[RSSEX:contributor-mrhappyface-link]: https://forum.kerbalspaceprogram.com/index.php?showtopic=119211
 [RSSEX:iau-wgccre-link]:              https://astrogeology.usgs.gov/groups/IAU-WGCCRE
 [RSSEX:jpl-horizons-system-link]:     https://ssd.jpl.nasa.gov/horizons.cgi
 [RSSEX:original-forum-link]:          https://forum.kerbalspaceprogram.com/index.php?showtopic=116275
 [RSSEX:robert-johnston-link]:         http://www.johnstonsarchive.net/astro/asteroidmoons.html
-[RSSEX:shield-version]:               https://img.shields.io/badge/KSP%20Version-1.3.1.1891-red.svg
 [RSSEX:shield-license]:               https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-green.svg
+[RSSEX:shield-version]:               https://img.shields.io/badge/KSP%20Version-1.3.1.1891-red.svg
