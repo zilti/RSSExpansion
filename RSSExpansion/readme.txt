@@ -40,7 +40,7 @@ Contributors:
 
     • eggrobin for adding Principia support for some of the bodies.
     • KillAshley for adding the asteroid 101955 Bennu.
-    • MrHappyFace for KopernicusExpansion, originally used by RSSExpanded for animated gas giant clouds and comet trails.
+    • MrHappyFace for KopernicusExpansion, originally used by RSS Planets and Moons Expanded for animated gas giant clouds and comet trails.
     • regex for repackaging the mod to be compatible with Module Manager.
 
 License:
